@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button_UploadFile</name>
+   <tag></tag>
+   <elementGuidId>9f783eac-3340-4859-b205-59ddc2e7064d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='file-upload']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//input[@id='file-submit']</value>
+      <webElementGuid>0c302bbb-2c8b-4206-9c38-7a7edf4111fa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
