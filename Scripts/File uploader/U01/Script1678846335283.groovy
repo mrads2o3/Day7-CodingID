@@ -25,7 +25,7 @@ WebUI.uploadFile(findTestObject('Home/Button_UploadFile'), 'C:\\Users\\pooyu\\On
 
 WebUI.click(findTestObject('Object Repository/Home/Button_Submit'))
 
-WebUI.verifyTextPresent('wkwkkwkwkwkwk', false)
+WebUI.verifyTextPresent('File Uploaded!', false)
 
 WebUI.closeBrowser()
 
