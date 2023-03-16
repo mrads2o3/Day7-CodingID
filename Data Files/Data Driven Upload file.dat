@@ -8,14 +8,19 @@
    <dataFileGUID>93178e96-ae8c-469f-830e-5632138097d2</dataFileGUID>
    <dataSourceUrl></dataSourceUrl>
    <driver>InternalData</driver>
-   <data>C%3A%5C%5CUsers%5C%5Cpooyu%5C%5COneDrive%5C%5CDesktop%5C%5CFile+to+Upload%5C%5CExcel+-+test+file.xlsx</data>
-   <data>C%3A%5C%5CUsers%5C%5Cpooyu%5C%5COneDrive%5C%5CDesktop%5C%5CFile+to+Upload%5C%5CPPT+-+test+file.pptx</data>
-   <data>C%3A%5C%5CUsers%5C%5Cpooyu%5C%5COneDrive%5C%5CDesktop%5C%5CFile+to+Upload%5C%5CRAR+-+test+file.rar</data>
-   <data>C%3A%5C%5CUsers%5C%5Cpooyu%5C%5COneDrive%5C%5CDesktop%5C%5CFile+to+Upload%5C%5CTxt+-+test+file.txt</data>
-   <data>C%3A%5C%5CUsers%5C%5Cpooyu%5C%5COneDrive%5C%5CDesktop%5C%5CFile+to+Upload%5C%5CWord+-+test+file.docx</data>
+   <data>C%3A%5C%5CUsers%5C%5Cpooyu%5C%5COneDrive%5C%5CDesktop%5C%5CFile+to+Upload%5C%5CExcel+-+test+file.xlsx Excel+-+test+file.xlsx</data>
+   <data>C%3A%5C%5CUsers%5C%5Cpooyu%5C%5COneDrive%5C%5CDesktop%5C%5CFile+to+Upload%5C%5CPPT+-+test+file.pptx PPT+-+test+file.pptx</data>
+   <data>C%3A%5C%5CUsers%5C%5Cpooyu%5C%5COneDrive%5C%5CDesktop%5C%5CFile+to+Upload%5C%5CRAR+-+test+file.rar RAR+-+test+file.rar</data>
+   <data>C%3A%5C%5CUsers%5C%5Cpooyu%5C%5COneDrive%5C%5CDesktop%5C%5CFile+to+Upload%5C%5CTxt+-+test+file.txt Txt+-+test+file.txt</data>
+   <data>C%3A%5C%5CUsers%5C%5Cpooyu%5C%5COneDrive%5C%5CDesktop%5C%5CFile+to+Upload%5C%5CWord+-+test+file.docx Word+-+test+file.docx</data>
    <internalDataColumns>
       <columnIndex>0</columnIndex>
       <name>File Location</name>
+      <size>5</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>File name</name>
       <size>5</size>
    </internalDataColumns>
    <isInternalPath>false</isInternalPath>

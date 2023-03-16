@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Upload satu file dengan cara klik Choose file.</description>
+   <name>N_UF04</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0b6fe2ea-b908-4759-bfc9-e733bb9a857c</testCaseGuid>
+</TestCaseEntity>

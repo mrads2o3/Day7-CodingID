@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Upload satu file dengan cara klik Choose file.</description>
+   <name>P_UF05 Data Driven</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7a185fc1-de53-43d1-89c8-0d4596b9e966</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>526d64ed-8bb7-4406-bdf8-e39fd9e57236</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Data Driven Upload file</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>526d64ed-8bb7-4406-bdf8-e39fd9e57236</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>File Location</value>
+      <variableId>57fcc28a-2c10-45eb-8ea2-f4618efcdc2e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>526d64ed-8bb7-4406-bdf8-e39fd9e57236</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>File name</value>
+      <variableId>0929d509-cfed-4b94-ab74-14a4dfc589bf</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>57fcc28a-2c10-45eb-8ea2-f4618efcdc2e</id>
+      <masked>false</masked>
+      <name>FileLocation</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0929d509-cfed-4b94-ab74-14a4dfc589bf</id>
+      <masked>false</masked>
+      <name>FileName</name>
+   </variable>
+</TestCaseEntity>

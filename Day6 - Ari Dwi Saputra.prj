@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Project>
    <description></description>
-   <name>Day6 - Ari Dwi Saputra</name>
+   <name>Day7 - Ari Dwi Saputra</name>
    <tag></tag>
    <UUID>16873a17-29d8-4594-933d-faee97a1f1bf</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>C:\Users\pooyu\Katalon Studio\Day6 - Ari Dwi Saputra\Day6 - Ari Dwi Saputra.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
